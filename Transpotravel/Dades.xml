@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<db>
+    <conexio>
+        <ip>127.0.0.1</ip>
+        <port>80</port>
+        <nom>TranspotravelV2</nom>
+        <usuari>ignasi</usuari>
+        <contrasenya>123</contrasenya>
+    </conexio>
+</db>

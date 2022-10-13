@@ -1,0 +1,78 @@
+/*
+.tab-pane {
+    -fx-background-color: #34495E;
+}
+
+.tab {
+    -fx-background-color: #333333;
+}
+
+.tab-pane>*.tab-header-area>*.tab-header-background
+{
+    -fx-background-color: -fx-outer-border, -fx-text-box-border,#34495E;
+}
+
+.tab-label {
+    -fx-text-fill: #e6e6e6;
+}
+
+.tab:selected .tab-label {
+    -fx-text-fill: #003333ff;
+}
+
+.tab:selected {
+    -fx-background-color: #B2BABB;
+}
+
+.tab-pane:focused > .tab-header-area > .headers-region > .tab:selected .focus-indicator {
+    -fx-border-radius: 0px;
+    -fx-border-width: 1px 1px 1px 1px;
+    -fx-border-color: #4d1a4dff;
+}
+
+*/
+
+    
+.button:focused{
+    
+    background-color :  #ffff;
+    -fx-border-color :  #0c3241;
+    -fx-border-width :  0px 0px 0px 3px;
+    
+}
+
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 0;
+}
+
+.tab-pane
+{
+    -fx-tab-min-width:90px;
+}
+
+.tab{
+    -fx-background-insets: 0 1 0 1,0,0;
+}
+.tab-pane .tab
+{
+    -fx-background-color: #34495E;
+
+}
+
+.tab-pane .tab:selected
+{
+    -fx-background-color: #708090;
+}
+
+.tab .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.tab:selected .tab-label { 
+    -fx-alignment: CENTER;
+    -fx-text-fill: #000000;
+}
