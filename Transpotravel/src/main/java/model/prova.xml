@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Connexions con = "BD">
-	<con id ="1">
-		<usuari>root</usuari>
-		<contraseña>Douglas,0.+</contraseña>
-		<enllaç>jdbc:mysql://localhost:3306/transpotravel</enllaç>
-	</con>
-</Connexions>
