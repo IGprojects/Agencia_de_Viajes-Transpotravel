@@ -12,5 +12,3 @@ Agencia de viajes hecha con Java, interfaz grafica con SceneBuilder(JavaFX) y Ba
 ![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura8.PNG)
 ![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura9.PNG)
 ![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura10.PNG)
-![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura11.PNG)
-![Image text](https://github.com/IGprojects/Maths-Island/blob/main/Assets/Captura12.PNG)
