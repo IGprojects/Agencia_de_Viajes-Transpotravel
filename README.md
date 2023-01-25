@@ -5,6 +5,9 @@ Agencia de viajes hecha con Java, interfaz grafica con SceneBuilder(JavaFX) y Ba
 | Gmail| Password|
 | ----- | ---- |
 |  admin | admin |
+<br/><br/>
+<br/>
+<br/>
 
 ![Image text](https://github.com/IGprojects/Agencia_de_Viajes-Transpotravel/blob/main/assets/Captura1.png)
 ![Image text](https://github.com/IGprojects/Agencia_de_Viajes-Transpotravel/blob/main/assets/Captura2.png)
