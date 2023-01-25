@@ -5,6 +5,7 @@ Agencia de viajes hecha con Java, interfaz grafica con SceneBuilder(JavaFX) y Ba
 | Gmail| Password|
 | ----- | ---- |
 |  admin | admin |
+| -------------- |
 <br/><br/>
 <br/>
 <br/>
