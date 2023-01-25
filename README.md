@@ -6,10 +6,7 @@ Agencia de viajes hecha con Java, interfaz grafica con SceneBuilder(JavaFX) y Ba
 | ----- | ---- |
 |  admin | admin |
 
-
-
-<br /><br />
-
+<br />
 
 ![Image text](https://github.com/IGprojects/Agencia_de_Viajes-Transpotravel/blob/main/assets/Captura1.png)
 ### Búsqueda de vuelos
