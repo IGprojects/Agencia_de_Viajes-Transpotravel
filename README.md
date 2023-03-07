@@ -1,4 +1,7 @@
 # Agencia de Viajes - Transpotravel
+Haz un vuelo con nuestra agencia de viajes en la que podrás dejar en nuestras manos
+i despreocupar-te del equipaje ye que nosotros nos haremos cargo de él hasta que llegue a su estancia.
+
 Agencia de viajes hecha con Java, interfaz grafica con SceneBuilder(JavaFX) y Base de datos Mysql
 
 ### Credenciales de administrador:
