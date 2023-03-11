@@ -3,7 +3,7 @@
 Haz un vuelo con nuestra agencia de viajes en la que podrás dejar en nuestras manos
 i despreocupar-te del equipaje ye que nosotros nos haremos cargo de él hasta que llegue a su estancia.
 
-## Tecnologigias Usadas
+## Tecnologías Usadas
   - JAVA
   - JAVAFX
   - CSS
